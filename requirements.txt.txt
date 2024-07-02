@@ -1,5 +1,5 @@
 streamlit
-fitz
+pymupdf
 pandas
 re
 openpyxl
