@@ -2,5 +2,4 @@ streamlit
 PyMuPDF
 pandas
 openpyxl
-io
 base64
